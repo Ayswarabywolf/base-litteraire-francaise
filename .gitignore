@@ -41,3 +41,27 @@ yarn-error.log
 # OS
 .DS_Store
 Thumbs.db
+.env
+.env.*
+node_modules/
+__pycache__/
+# Environment variables
+.env
+.env.*
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
